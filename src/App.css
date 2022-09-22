@@ -1,0 +1,91 @@
+#formFile{
+    width: 30vw;
+    float: right;
+    margin-right: 3vw;
+    margin-top: 1vw;
+}
+body{
+    background-color: rgb(248, 248, 248);
+}
+h1{
+    color: whitesmoke
+}
+#header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1vw;
+    background-color: rgb(148, 197, 204);
+}
+#placeForImage{
+    width: 65vw;
+    height: 100vh;
+    background-color: rgb(180, 210, 231);
+    padding: 0 3vw;
+    margin-left: 0;
+}
+#imageResponse{
+    max-width: 60vw;
+    height: 100vh;
+}
+#text{
+    width: 32vw;
+    height: 100vh;
+    float: right;
+}
+#textcontainer{
+    width: 32vw;
+    height: 100vh;
+    float: right;
+}
+.details{
+    background-color: rgb(0, 1, 0);
+    color:white;
+}
+.headerDiv{
+    background-color: rgb(180, 210, 231);
+}
+.liItem{
+    padding: 1vw;
+    border: 0ch;
+}
+#listItem{
+    padding: 1vw;
+}
+#theCarousel{
+    height: 100vh;
+}
+.carousel-inner{
+    height: 100vh;
+    overflow-y: scroll;
+}
+#container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 0;
+    margin: 0 ;
+}
+#resultDiv{
+    padding: 1vw;
+}
+#showMore{
+    width: 100vw;
+}
+.carousel-item{
+    height: 100vh;
+}
+#multiCollapseExample1{
+    height: 50vh;
+    overflow-y: scroll;
+}
+.button{
+    margin-left: 75.5vw;
+    margin-top: 2vw;
+    background-color: rgb(161, 166, 180);
+}
+#imageContainer{
+    width:fit-content;
+    height: fit-content;
+}
